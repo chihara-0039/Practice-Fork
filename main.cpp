@@ -1,7 +1,8 @@
 #include <iostream>
 
 int main() {
-    // ‚±‚±‚ð‘‚«Š·‚¦‚Ä‹£‡‚³‚¹‚é
+    // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+    std::cout << "Origin Message" << std::endl;
     std::cout << "Font? Message" << std::endl;
     return 0;
 }
